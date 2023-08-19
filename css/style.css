@@ -1,0 +1,35 @@
+h1{
+	text-align:center;
+}
+
+td{
+	
+	padding: 4px;
+	border: 2px dotted #0000005c;
+}
+form{
+	display:flex;
+	justify-content:center;
+}
+table{
+	
+	
+	border: 5px dotted black;
+    width: 50%;
+}
+.topic{
+	text-align:end;
+}
+.scroll{	
+	resize: none;
+    overflow-y: scroll;
+    border-top: 3px solid #8d8d8d;
+	border-left: 3px solid #8d8d8d;
+}
+input,textarea{
+    border-top: 4px solid #8d8d8d;
+    border-left: 4px solid #8d8d8d;
+}
+.any{
+	resize:none;
+}
